@@ -1,5 +1,6 @@
 # realtime_inference.py
 # Usage: python realtime_inference.py --model asl_model.h5 --encoder label_encoder.joblib
+# pip install -r requirements.txt
 
 import cv2
 import numpy as np
